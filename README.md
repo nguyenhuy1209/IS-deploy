@@ -4,3 +4,6 @@
 # Download model from S3
 
 `mkdir -p model/data/model_files && cd model/data/model_files && curl -O https://grammarly-nlp-data-public.s3.amazonaws.com/gector/xlnet_0_gector.th`
+
+# Paper
+[https://arxiv.org/abs/2005.12592](https://arxiv.org/abs/2005.12592)
